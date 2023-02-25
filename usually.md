@@ -167,61 +167,61 @@ ohmysh
 
 rjorgenson
 
-![image-20230225144412806](D:\ALL\Program\Linux\usually.assets\image-20230225144412806.png)
+![](/usually.assets/image-20230225144412806.png)
 
 90210
 
-![image-20230225144502613](D:\ALL\Program\Linux\usually.assets\image-20230225144502613.png)
+![](/usually.assets/image-20230225144502613.png)
 
 garo
 
-![image-20230225144641164](D:\ALL\Program\Linux\usually.assets\image-20230225144641164.png)
+![](/usually.assets/image-20230225144641164.png)
 
 agnoster
 
-![image-20230225144730272](D:\ALL\Program\Linux\usually.assets\image-20230225144730272.png)
+![](/usually.assets/image-20230225144730272.png)
 
 hawaii50
 
-![image-20230225144902719](D:\ALL\Program\Linux\usually.assets\image-20230225144902719.png)
+![](/usually.assets/image-20230225144902719.png)
 
 tonotdo
 
-![image-20230225145044629](D:\ALL\Program\Linux\usually.assets\image-20230225145044629.png)
+![](/usually.assets/image-20230225145044629.png)
 
 axin
 
-![image-20230225145133541](D:\ALL\Program\Linux\usually.assets\image-20230225145133541.png)
+![](/usually.assets/image-20230225145133541.png)
 
 primer
 
-![image-20230225145243058](D:\ALL\Program\Linux\usually.assets\image-20230225145243058.png)
+![](/usually.assets/image-20230225145243058.png)
 
 sexy
 
-![image-20230225145315349](D:\ALL\Program\Linux\usually.assets\image-20230225145315349.png)
+![](/usually.assets/image-20230225145315349.png)
 
 kitsune
 
-![image-20230225145508802](D:\ALL\Program\Linux\usually.assets\image-20230225145508802.png)
+![](usually.assets/image-20230225145508802.png)
 
 wanelo
 
-![image-20230225145656000](D:\ALL\Program\Linux\usually.assets\image-20230225145656000.png)
+![](/usually.assets/image-20230225145656000.png)
 
-![image-20230225145732567](D:\ALL\Program\Linux\usually.assets\image-20230225145732567.png)
+![](/usually.assets/image-20230225145732567.png)
 
 emperor
 
-![image-20230225145821018](D:\ALL\Program\Linux\usually.assets\image-20230225145821018.png)
+![](/usually.assets/image-20230225145821018.png)
 
 nwinkler_random_colors
 
-![image-20230225145922631](D:\ALL\Program\Linux\usually.assets\image-20230225145922631.png)
+![](/usually.assets/image-20230225145922631.png)
 
 cupcake
 
-![](\usually.assets\image-20230225150024569.png)
+![](/usually.assets/image-20230225150024569.png)
 
 bobby
 
