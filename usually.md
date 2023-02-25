@@ -229,7 +229,7 @@ bobby
 
 mbriggs
 
-![image-20230225150237814](/usually.assets/image-20230225150237814.png)
+![](/usually.assets/image-20230225150237814.png)
 
 
 
