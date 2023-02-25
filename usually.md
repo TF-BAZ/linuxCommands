@@ -221,11 +221,11 @@ nwinkler_random_colors
 
 cupcake
 
-![image-20230225150024569](D:\ALL\Program\Linux\usually.assets\image-20230225150024569.png)
+![](\usually.assets\image-20230225150024569.png)
 
 bobby
 
-![image-20230225150159055](D:\ALL\Program\Linux\usually.assets\image-20230225150159055.png)
+![](/usually.assets/image-20230225150159055.png)
 
 mbriggs
 
