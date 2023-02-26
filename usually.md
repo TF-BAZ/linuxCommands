@@ -277,6 +277,13 @@ mbriggs
 
 
 
+# wayfire插件
+
+waybar			panel插件
+swaybg			背景插件。可不同显示器不同壁纸
+imv					看图软件。也支持X
+swayidle			开发环境管理
+
 # 小知识
 
 ## 目录
