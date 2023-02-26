@@ -1,3 +1,33 @@
+## 常见挂载点
+
+```
+/home
+/dev		设备目录。tty也在这里面
+/media		u盘、光驱等
+/mnt		额外挂载点，如光驱
+/boot		启动文件
+/etc		一些配置文件
+/bin		系统用户命令。实际上是链接/usr/bin
+/sbin		root用于命令。实际上是链接/usr/sbin
+/lib		系统基本的动态链接库
+/opt		额外安装软件
+/pro		process（进程）的简称，存放内核运行状态的一些内容
+/tmp		存放一些临时文件
+/usr		unix shared resource(共享资源)。类似于program files
+/usr/src	内核源码
+```
+
+
+
+## 查看已安装软件
+
+```
+ubuntu:
+sudo apt list --installed
+```
+
+
+
 ## 查看所有进程
 
 ```
@@ -120,6 +150,20 @@ df
 df -BM			以M为单位显示磁盘使用情况
 df -BG			以G为单位显示磁盘使用情况
 ```
+
+## 查看cpu架构
+
+```
+sudo uname --m
+```
+
+## 查看文件相关信息
+
+```
+file [filename]			显示文件相关信息，如果是文本文件会显示文本编码等信息，如果是exe文件会显示软件所需架构等信息
+```
+
+
 
 # 第三方插件
 
